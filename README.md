@@ -7,8 +7,8 @@
 
 # Bem-vindo a API IndexOffy!
 
-## 🚀 Link API Completa
-- http://www.upyexplorer.com/
+## 🚀 Link
+- http://www.indexoffy.com/
 
 ## ✔️ Introdução
 
